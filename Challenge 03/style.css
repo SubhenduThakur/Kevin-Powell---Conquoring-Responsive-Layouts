@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto';
+    color: #FFFFFF;
+}
+
+.container {
+    height: 40%;
+    background-color: #23424A;
+    padding: 9.6em 0;
+}
+
+.content {
+    width: 50%;
+    margin: 0 auto;
+}
+
+h1 {
+    font-weight: 900;
+    font-size: 3rem;
+}
+
+p {
+    font-weight: 400;
+    font-size: 1.3rem;
+    color: #D5D9DB;
+    margin-top: 3rem;
+}
+
+button {
+    background-color: #38CFD9;
+    text-transform: uppercase;
+    font-weight: 500;
+    color: #072A2D;
+    border: none;
+    border-radius: 100px;
+    font-size: 1.3rem;
+    padding: 0.5em 2em;
+    margin-top: 2em;
+}
