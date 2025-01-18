@@ -9,12 +9,14 @@
 .container {
     height: 40%;
     background-color: #23424A;
-    padding: 9.6em 0;
+    padding: 9.6em 2em;
 }
 
 .content {
-    width: 50%;
+    width: 100%;
+    max-width: 710px;
     margin: 0 auto;
+
 }
 
 h1 {
